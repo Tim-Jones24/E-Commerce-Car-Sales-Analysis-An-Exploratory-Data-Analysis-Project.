@@ -31,3 +31,6 @@ This project showcases an Exploratory Data Analysis (EDA) of e-commerce car sale
 
 ### Objective:
 To analyze and derive actionable insights from e-commerce car sales dats, helping stakeholders understand car rice classifications, distributions, and realtionships among features.
+
+#### Acknowledgement:
+Special thanks to Jiji.ng for providing accessible and reliable car sales data, enabling the seamless scraping and analysis presented in this project.
