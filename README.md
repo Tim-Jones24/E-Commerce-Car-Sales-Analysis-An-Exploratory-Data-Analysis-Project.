@@ -1,4 +1,4 @@
-# E-Commerce-Car-Sales-Analysis: An Exploratory Data Analysis Project.
+# E-Commerce Car Sales Analysis: An Exploratory Data Analysis Project.
 This project showcases an Exploratory Data Analysis (EDA) of an e-commerce car sales data scraped from an online e-commerce platform. The analysis highlights key patterns, relationships, and insights into car features, prices and distributions. The dataset was preprocessed, transformed, and visualized using Python to ensure accuracy and user readability.
 
 ### Workflow and Key Features:
